@@ -20,6 +20,12 @@
 a:visited {
   color: #16191b;
 }
+a:link {
+  text-decoration: none;
+}
+a:hover {
+  background-color: whitesmoke;
+}
 .home-img {
   width: 70%;
 }
