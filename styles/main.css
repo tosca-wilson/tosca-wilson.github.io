@@ -20,7 +20,7 @@
 a:visited {
   color: #16191b;
 }
-a:link {
+a {
   text-decoration: none;
 }
 a:hover {
