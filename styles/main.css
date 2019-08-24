@@ -24,6 +24,7 @@ a:visited {
 }
 a {
   text-decoration: none;
+  color: #16191b;
 }
 a:hover {
   background-color: whitesmoke;
@@ -47,7 +48,6 @@ a:hover {
 .container-bloghome {
   display: grid;
   grid-template-columns: 1fr;
-  color: #16191b;
 }
 .blogpost-entry {
   display: grid;
