@@ -47,6 +47,7 @@ a:hover {
 .container-bloghome {
   display: grid;
   grid-template-columns: 1fr;
+  color: #16191b;
 }
 .blogpost-entry {
   display: grid;
