@@ -44,6 +44,22 @@ a:hover {
   margin-right: auto;
   width: 50%;
 }
+.container-bloghome {
+  display: grid;
+  grid-template-columns: 1fr;
+}
+.blogpost-entry {
+  display: grid;
+  grid-template-columns: 20% 80%;
+  height: auto;
+  padding: 5px;
+  margin: 20px;
+  align-items: center;
+}
+.blog-icon {
+  box-align: left;
+  width: 100%
+}
 .container {
   font-family: "EB Garamond", "serif";
   text-align: center;
